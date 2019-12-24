@@ -1,0 +1,11 @@
+C:\Users\Mary\source\repos\FinalTaskOOP\bin\Debug\netcoreapp2.1\FinalTaskOOP.deps.json
+C:\Users\Mary\source\repos\FinalTaskOOP\bin\Debug\netcoreapp2.1\FinalTaskOOP.runtimeconfig.json
+C:\Users\Mary\source\repos\FinalTaskOOP\bin\Debug\netcoreapp2.1\FinalTaskOOP.runtimeconfig.dev.json
+C:\Users\Mary\source\repos\FinalTaskOOP\bin\Debug\netcoreapp2.1\FinalTaskOOP.dll
+C:\Users\Mary\source\repos\FinalTaskOOP\bin\Debug\netcoreapp2.1\FinalTaskOOP.pdb
+C:\Users\Mary\source\repos\FinalTaskOOP\obj\Debug\netcoreapp2.1\FinalTaskOOP.csprojAssemblyReference.cache
+C:\Users\Mary\source\repos\FinalTaskOOP\obj\Debug\netcoreapp2.1\FinalTaskOOP.csproj.CoreCompileInputs.cache
+C:\Users\Mary\source\repos\FinalTaskOOP\obj\Debug\netcoreapp2.1\FinalTaskOOP.AssemblyInfoInputs.cache
+C:\Users\Mary\source\repos\FinalTaskOOP\obj\Debug\netcoreapp2.1\FinalTaskOOP.AssemblyInfo.cs
+C:\Users\Mary\source\repos\FinalTaskOOP\obj\Debug\netcoreapp2.1\FinalTaskOOP.dll
+C:\Users\Mary\source\repos\FinalTaskOOP\obj\Debug\netcoreapp2.1\FinalTaskOOP.pdb
